@@ -4,5 +4,4 @@ description = "The Iconic Atom One Theme"
 version = "0.1.0"
 author = "Lapce"
 repository = "lapce/atom-one"
-wasm = ""
 themes = ["one-dark.toml", "one-light.toml"]
