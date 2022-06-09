@@ -1,0 +1,8 @@
+name = "atom-one"
+display-name = "Atom One"
+description = "The Iconic Atom One Theme"
+version = "0.1.0"
+author = "Lapce"
+repository = "lapce/atom-one"
+wasm = "lapce-rust.wasm"
+themes = ["one-dark.toml", "one-light.toml"]
