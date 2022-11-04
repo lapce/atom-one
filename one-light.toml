@@ -1,4 +1,4 @@
-[theme]
+[color-theme]
 name = "One Light"
 
 [ui]
@@ -11,7 +11,7 @@ activity-width = 50
 scroll-width = 10
 drop-shadow-width = 0
 
-[theme.base]
+[color-theme.base]
 white = "#FAFAFA"
 black = "#383A42"
 grey = "#E5E5E6"
@@ -24,7 +24,7 @@ purple = "#A626A4"
 cyan = "#0184BC"
 magenta = "#A626A4"
 
-[theme.syntax]
+[color-theme.syntax]
 "comment" = "#A0A1A7"
 
 "constant" = "$yellow"
@@ -58,7 +58,7 @@ magenta = "#A626A4"
 "escape" = "$cyan"
 "embedded" = "$cyan"
 
-[theme.ui]
+[color-theme.ui]
 "lapce.active_tab" = "$white"
 "lapce.inactive_tab" = "$grey"
 "lapce.error" = "#E51400"
