@@ -4,4 +4,4 @@ description = "The Iconic Atom One Theme"
 version = "0.1.0"
 author = "Lapce"
 repository = "https://github.com/lapce/atom-one"
-themes = ["one-dark.toml", "one-light.toml"]
+color-themes = ["one-dark.toml", "one-light.toml"]
